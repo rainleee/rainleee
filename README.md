@@ -1,7 +1,6 @@
 # ✨ Welcome To My GitHub!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainleee&show_icons=true)
 
-## 간략한 내 소개
 
 ## 🛠 Tech Stack
 - Language & framework:
